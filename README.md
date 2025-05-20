@@ -9,7 +9,7 @@ In cmd - go to backend - to run (python app.py)
 In another cmd - go to frontend - to run (npm run start)
 
 
-# K-Insure: Customer Analytics and Damage Assessment Platform
+# K-Insure (Backend):
 
 ## About the Project
 K-Insure is a comprehensive Flask-based web application developed as an internship project for an IT company. It is designed for insurance companies to analyze customer data, perform churn prediction, conduct sentiment analysis, segment customers, and assess vehicle damage. The application integrates with a PostgreSQL database and leverages advanced machine learning and AI techniques to provide actionable insights. Key features include:
